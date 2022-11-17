@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmileGreyling
+- 👋 Hi, I’m @EmileGreyling and I'm 14 years old.
 - 👀 I’m interested in web development, pentesing, automation, and software developing.
 - 🌱 I’m currently learning Pentesting, Python, JavaScript, and Web Development.
 - 💞️ I’m looking to collaborate on applications that can make someone's life easier.
