@@ -18,7 +18,7 @@
       "Automation",
       "Game Development",
     ],
-  currentlyLearning: ["React", "React Native", "Django", "Prompt Engineering"],
+  currentlyLearning: ["MERN stack", "React Native", "Django", "Prompt Engineering"],
   hobbies: ["Piano", "Guitar"]
   
 ```
@@ -44,7 +44,7 @@
 </p>
 
 
-<h2>📘Courses I've done (that I can remember)</h2>
+<h2>📘 &nbsp;Courses I've done (that I can remember)</h2>
 
 <a href="https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"><img src="https://markdown-videos.deta.dev/youtube/j942wKiXFu8"></img></a>
 <a href="https://www.youtu.be./hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"><img src="https://markdown-videos.deta.dev/youtube/hu-q2zYwEYs"></img></a>
