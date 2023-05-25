@@ -47,7 +47,8 @@
 <h2>📘Courses I've done (that I can remember)</h2>
 
 <a href="https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"><img src="https://markdown-videos.deta.dev/youtube/j942wKiXFu8"></img></a>
-<a href="https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"><img src="https://markdown-videos.deta.dev/youtube/hu-q2zYwEYs"></img></a>
+<a href="https://www.youtu.be./hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"><img src="https://markdown-videos.deta.dev/youtube/hu-q2zYwEYs"></img></a>
+<a href="https://www.youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB"><img src="https://markdown-videos.deta.dev/youtube/4d-gIPGzmK4"></img></a>
 <!---
 EmileGreyling/EmileGreyling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
