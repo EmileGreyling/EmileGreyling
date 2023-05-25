@@ -4,7 +4,8 @@
 <h2> 👨‍💻 About Me </h2>
 
 ```yaml
-  name: Emile Greyling
+  name: Emile Greyling,
+  birthDate: '11 July 2008'
   education: 
     [
       "Currently in High School",
