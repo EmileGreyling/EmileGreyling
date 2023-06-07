@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%20There!&animation=fadeIn&type=waving&color=gradient&height=150"/>
 </p>
-<h2> 👨‍💻 About Me </h2>
+
+## 👨‍💻 About Me
 
 ```yaml
   name: Emile Greyling,
@@ -24,7 +25,7 @@
   
 ```
 
-<h2> 🚀 &nbsp;Tools I've learned and am still learning</h2>
+## 🚀 &nbsp;Tools I've learned and am still learning
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -45,11 +46,19 @@
 </p>
 
 
-<h2>📘 &nbsp;Courses I've done (that I can remember)</h2>
+## 📘Courses I've done (that I can remember)
 
-<a href="https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"><img src="https://markdown-videos.deta.dev/youtube/j942wKiXFu8"></img></a>
-<a href="https://www.youtu.be./hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"><img src="https://markdown-videos.deta.dev/youtube/hu-q2zYwEYs"></img></a>
-<a href="https://www.youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB"><img src="https://markdown-videos.deta.dev/youtube/4d-gIPGzmK4"></img></a>
+<p float="left">
+  <!-- React Course -->
+  <a href="https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"><img src="https://img.youtube.com/vi/j942wKiXFu8/maxresdefault.jpg" width="300"></a>
+  <!-- HTML & CSS Crash Course -->
+  <a href="https://youtu.be/hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"><img src="https://img.youtube.com/vi/hu-q2zYwEYs/maxresdefault.jpg"  width="300"></img></a>
+  <!-- Firebase -->
+  <a href="https://youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB"><img src="https://img.youtube.com/vi/4d-gIPGzmK4/maxresdefault.jpg" width="300"></img></a>
+  <!-- MERN stack -->
+  <a href="https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE"><img src="https://img.youtube.com/vi/98BzS5Oz5E4/maxresdefault.jpg" width="300"></img></a>
+</p>
+
 <!---
 EmileGreyling/EmileGreyling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
