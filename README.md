@@ -19,7 +19,7 @@
       "Mobile Development",
       "Automation",
     ],
-  myStack: ["Vue JS", "React Native", "Python", "Django", "HTML", "CSS", "Sass"],
+  myStack: ["HTML", "CSS", "Javascript", "Sass", "Vue JS", "React Native", "Python", "Django", "Flask"],
   hobbies: ["Piano", "Guitar"]
   
 ```
