@@ -53,6 +53,8 @@
   <a href="https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE"><img src="https://img.youtube.com/vi/98BzS5Oz5E4/maxresdefault.jpg" width="300"></img></a>
 </p>
 
+##
+[![Emile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileGreyling)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 EmileGreyling/EmileGreyling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
