@@ -1,61 +1,30 @@
-<p align="center">
-  <img src="https://github.com/EmileGreyling/EmileGreyling/blob/main/Emile%20Greyling%20.png" width="100%" height="50%" />
-</p>
+![Web & Mobile development](https://github.com/EmileGreyling/EmileGreyling/blob/main/Emile%20Greyling%20.png)
 
-## 👨‍💻 About Me
+### Hi there 👋, I'm Emile Greyling
+#### Web & Mobile development
 
-```yaml
-  fullName: Emile Eduard Greyling,
-  birthDate: '11 July 2008'
-  education: 
-    [
-      "Currently in High School",
-      "Self-taught Web developer",
-      "Self-taught Mobile developer"
-    ],
-  interests:
-    [
-      "Web Development",
-      "Mobile Development",
-      "Automation",
-    ],
-  myStack: ["HTML", "CSS", "Javascript", "Sass", "Vue JS", "React Native", "Python", "Django", "Flask"],
-  hobbies: ["Piano", "Guitar"]
+My name is Emile Greyling and I'm a self-taught developer from South Africa. I'm currently in high school, but instead of playing games for hours, I code for hours. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmileGreyling)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://emilegreyling.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20605183)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvqFa1siuLfAlVEjs1EJfgA)  
+
+### Skills: 
+- 💻 VUE JS
+- ⚛️  React
+- 🖥 HTML, CSS, Javascript
+- 📱 REACT Native
+- 🐍 Python
+
+### Courses I've done
+- **[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)**
+- **[Full React Course](https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)**
+- **[HTML & CSS Crash Course](https://youtu.be/hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)**
+- **[Firebase Course](https://youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)**
+- **[MERN Stack Course](https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE)**
   
-```
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmileGreyling)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 &nbsp;Tools I've learned and am still learning
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vue" width="45" height="45"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="45" height="45" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileGreyling&show_icons=true)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=EmileGreyling)  
 
-## 📘Courses I've done (that I can remember)
-
-<p float="left">
-  <!-- React Course -->
-  <a href="https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d"><img src="https://img.youtube.com/vi/j942wKiXFu8/maxresdefault.jpg" width="300"></a>
-  <!-- HTML & CSS Crash Course -->
-  <a href="https://youtu.be/hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G"><img src="https://img.youtube.com/vi/hu-q2zYwEYs/maxresdefault.jpg"  width="300"></img></a>
-  <!-- Firebase -->
-  <a href="https://youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB"><img src="https://img.youtube.com/vi/4d-gIPGzmK4/maxresdefault.jpg" width="300"></img></a>
-  <!-- MERN stack -->
-  <a href="https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE"><img src="https://img.youtube.com/vi/98BzS5Oz5E4/maxresdefault.jpg" width="300"></img></a>
-</p>
-
-##
-[![Emile's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileGreyling)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-EmileGreyling/EmileGreyling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
