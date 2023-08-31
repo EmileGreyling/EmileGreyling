@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%20There!&animation=fadeIn&type=waving&color=gradient&height=150"/>
+  <img src="https://github.com/EmileGreyling/EmileGreyling/blob/main/Emile%20Greyling%20.png" width="100%" height="50%" />
 </p>
 
 ## 👨‍💻 About Me
