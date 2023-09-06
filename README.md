@@ -19,10 +19,4 @@ My name is Emile Greyling and I'm a self-taught developer from South Africa. I'm
 - **[Firebase Course](https://youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)**
 - **[MERN Stack Course](https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE)**
   
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmileGreyling)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EmileGreyling&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=EmileGreyling)  
 
