@@ -16,6 +16,7 @@ My name is Emile Greyling and I'm a self-taught developer from South Africa. I'm
 - **[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)**
 - **[Full React Course](https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)**
 - **[HTML & CSS Crash Course](https://youtu.be/hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)**
+- **[Learn Ruby on Rails - Full Course](https://youtu.be/fmyvWz5TUWg)**
 - **[Firebase Course](https://youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)**
 - **[MERN Stack Course](https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE)**
   
