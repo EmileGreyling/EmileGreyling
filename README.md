@@ -12,7 +12,7 @@ My name is Emile Greyling and I'm a self-taught developer from South Africa. I'm
 ### Tech stack: 
 ![Icons of my tech stack](https://skillicons.dev/icons?i=html,css,javascript,react,vue,ruby,rails,python,flask,django,sqlite,git,github,vscode,linux&perline=7)
 
-### Courses I've done
+### Courses I've done (this is just for my school so that they can see what I've learned)
 - **[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)**
 - **[Full React Course](https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)**
 - **[HTML & CSS Crash Course](https://youtu.be/hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)**
