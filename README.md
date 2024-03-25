@@ -6,7 +6,7 @@ My name is Emile Greyling and I'm a self-taught software developer from South Af
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EmileGreyling)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://emilegreyling.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/20605183)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCvqFa1siuLfAlVEjs1EJfgA)  
 
 ### Tech stack: 
-![Icons of my tech stack](https://skillicons.dev/icons?i=html,css,javascript,react,vue,dart,flutter,python,flask,django,c,sqlite,git,github,vscode,linux&perline=7)
+![Icons of my tech stack](https://skillicons.dev/icons?i=html,css,javascript,tailwind,vue,dart,flutter,python,flask,django,c,sqlite,git,github,vscode,linux&perline=7)
 
 ### Courses I've done (this is just for my school so that they can see what I've learned)
 - **[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)**
