@@ -12,6 +12,7 @@ My name is Emile Greyling and I'm a self-taught software developer from South Af
 <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/React-242938?style=for-the-badge&logo=react&logoColor=blue" alt="React" />
+    <img src="https://img.shields.io/badge/Material%20UI-0F1214?style=for-the-badge&logo=mui" alt="Material UI />
     <img src="https://img.shields.io/badge/Python-1e415e?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
     <img src="https://img.shields.io/badge/Fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
     <img src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
