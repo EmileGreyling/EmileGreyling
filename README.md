@@ -18,6 +18,7 @@ My name is Emile Greyling and I'm a self-taught software developer from South Af
     <img src="https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
     <img src="https://img.shields.io/badge/Dart-1C2834?style=for-the-badge&logo=dart&logoColor=blue" alt="Dart" />
     <img src="https://img.shields.io/badge/Flutter-2C75D7?style=for-the-badge&logo=flutter&logoColor=lightblue" alt="Flutter" />
+    <img src="https://img.shields.io/badge/C-5B6BC1?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
 ### 📊 GitHub Stats:
