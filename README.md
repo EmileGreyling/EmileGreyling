@@ -33,12 +33,11 @@ My name is Emile Greyling and I'm a self-taught software developer from South Af
 
 ### Courses I've done (this is just for my school so that they can see what I've learned)
 - **[CS50’s Introduction to Computer Science](https://cs50.harvard.edu/x/)**
+- **[CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/2020/)**
 - **[Full React Course](https://youtu.be/j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)**
 - **[HTML & CSS Crash Course](https://youtu.be/hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)**
-- **[Learn Ruby on Rails - Full Course](https://youtu.be/fmyvWz5TUWg)**
 - **[Firebase Course](https://youtu.be/4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)**
 - **[MERN Stack Course](https://youtu.be/98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE)**
-
 
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
